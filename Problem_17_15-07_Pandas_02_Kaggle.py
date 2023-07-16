@@ -40,5 +40,12 @@ print(student_data)
 student_data = pd.read_csv("csv_student.csv",index_col = 2)
 print(student_data)
 
-# 2. Indexing, Slicing and Assigning 
+
+
+
+
+
+
+
+
 
