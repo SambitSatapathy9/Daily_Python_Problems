@@ -1,0 +1,9 @@
+30 DAYS CODING CHALLENGE
+
+Welcome to the Python 30 Days Coding Challenge! 🚀
+
+This repository hosts a collection of Python coding exercises designed to enhance your programming skills. Each day, you'll find a new coding challenge file named according to the acronym "P30D" (Python 30 Days) followed by the day number. Dive into these challenges, test your Python prowess, and level up your coding abilities.
+
+Example File Name: "P30D_01_25_09.py" (for Day 1 on september 25 2023)
+
+Feel free to fork this repository, contribute solutions, and learn together as we embark on this 30-day coding journey. Happy coding! 💻🐍
